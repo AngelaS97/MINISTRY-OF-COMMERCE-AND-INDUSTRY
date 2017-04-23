@@ -43,7 +43,7 @@ EXAMPLE OF SEO DONE ON A GOVERNMENT WEBSITE- MINISTRY OF COMMERECE AND INDUSTRY
 <table>
 <font size=5>
 <table border=5 > 
-<tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
+<tr><th> FAULT <th>DESCRIPTION<th>USAGE/IMPORTANCE<th><th>SUGGESTION<th></tr>
 
 <tr>
 <th>Robots.txt Test	</th>
